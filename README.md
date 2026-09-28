@@ -1,5 +1,4 @@
-## Name: Keerthana D
-## Reg No: 212224040155
+
 ## Prototype Development for Image Captioning Using the BLIP Model and Gradio Framework
 
 ### AIM:
